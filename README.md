@@ -1,43 +1,54 @@
 ![Umer's GitHub Banner](./assets/header.png)
 
-Hey there :smile: 
+# Hi 👋, I'm Safwan Asghar
+### A Data-Driven Enthusiast from Pakistan 🇵🇰
 
-I am an experienced full-stack engineer specializing in developing high-quality web applications.I can build everything from the front-end to the back-end and everything in between.
+## 💁 What I Do:
+- Build data-intensive, highly scalable end-to-end data pipelines for handling business use cases.
+- Provide clean & transformed data to be consumed by analytics and data science teams.
+- Innovate and automate existing processes within organizational frameworks.
 
-## &#x1f4c8; GitHub Stats
+## 📊 GitHub Stats:
 
-<br>
+<!-- Use a table to display GitHub stats side by side -->
+<table>
+  <tr>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+    </td>
+    <td style="padding: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=midnight-purple&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/safwan406">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=midnight-purple&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" />
-</a>
+## 💼 Languages and Tools:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197" alt="Angular">
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" alt="React">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" alt="MySQL">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
+</p>
 
-
-## 💼 Languages and Tools
-
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
 <h1 align="center">Hi 👋, I'm Umair Pathan Abro</h1>
 <h3 align="center">A Data Driven Dummy from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umair-abro&label=Profile%20views&color=0e75b6&style=flat" alt="umair-abro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safwan406&label=Profile%20views&color=0e75b6&style=flat" alt="safwan406" /> </p>
 
 <p align="left"> <a href="https://twitter.com/umairabro992" target="blank"><img src="https://img.shields.io/twitter/follow/umairabro992?logo=twitter&style=for-the-badge" alt="umairabro992" /></a> </p>
 
