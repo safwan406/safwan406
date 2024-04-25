@@ -45,20 +45,6 @@
   <a href="https://nifi.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="nifi" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://sqoop.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Apache_Sqoop_logo.svg/1280px-Apache_Sqoop_logo.svg.png" alt="sqoop" width="60" height="30"/> </a>
-  
-  <img src="https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197" alt="Angular">
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197" alt="MySQL">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
 </p>
 
 
