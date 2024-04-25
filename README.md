@@ -1,4 +1,4 @@
-![Umer's GitHub Banner](./assets/header.png)
+![Safwan's GitHub Banner](./assets/header.png)
 
 <h1 align="center">Hi 👋, I'm Safwan Asghar</h1>
 <h3 align="center">A Data-Driven Enthusiast from Pakistan 🇵🇰</h3>
