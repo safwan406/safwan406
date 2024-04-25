@@ -31,7 +31,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&locale=en&theme=tokyonight" alt="safwan406" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&locale=en&theme=tokyonight" alt="safwan406" /></p>
 
 <!-- Use a table to display GitHub stats side by side -->
 <table>
