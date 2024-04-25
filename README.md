@@ -31,10 +31,6 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" alt="safwan406" /></p>
-
-<h3 align="right">Connect with me</h3>
-<p align="right">
-<a href="https://dev.to/umairabro992" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="umairabro992" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/safwan-asghar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="safwan406" height="30" width="40" /></a>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" alt="safwan406" />
 </p>
