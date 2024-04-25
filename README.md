@@ -31,19 +31,7 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&locale=en&theme=tokyonight" alt="safwan406" /></p>
-
-<!-- Use a table to display GitHub stats side by side -->
-<table>
-  <tr>
-    <td style="padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-    </td>
-    <td style="padding: 10px; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=midnight-purple&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safwan406&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="safwan406" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=safwan406&show_icons=true&theme=tokyonight&count_private=true&hide=prs,stars,issues,contribs&include_all_commits=true" alt="safwan406" /></p>
 
 <h3 align="right">Connect with me</h3>
 <p align="right">
