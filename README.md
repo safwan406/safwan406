@@ -47,8 +47,8 @@
   </tr>
 </table>
 
-<h3 align="right">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me</h3>
+<p align="right">
 <a href="https://dev.to/umairabro992" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="umairabro992" height="30" width="40" /></a>
 <a href="https://twitter.com/umairabro992" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="umairabro992" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/safwan-asghar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="safwan406" height="30" width="40" /></a>
