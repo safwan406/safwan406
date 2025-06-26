@@ -17,13 +17,13 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
   <a href="https://airflow.apache.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" alt="airflow" width="40" height="40"/> </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.brandfetch.io/idJz-fGD_q/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="snowflake" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://neo4j.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://nifi.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_nifi/apache_nifi-icon.svg" alt="nifi" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://sqoop.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Apache_Sqoop_logo.svg/1280px-Apache_Sqoop_logo.svg.png" alt="sqoop" width="60" height="30"/> </a>
