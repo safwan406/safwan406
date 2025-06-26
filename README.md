@@ -1,7 +1,7 @@
 ![Safwan's GitHub Banner](./assets/header.png)
 
 <h1 align="center">Hi 👋, I'm Safwan Asghar</h1>
-<h3 align="center">A Data-Driven Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">A Data-Driven Enthusiast</h3>
 
 ## 💁 What I Do:
 - Build data-intensive, highly scalable end-to-end data pipelines for handling business use cases.
